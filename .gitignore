@@ -5,7 +5,7 @@
 /.idea/libraries
 /.idea
 /app/release
-/gradle
+/.gradle
 .DS_Store
 /build
 /captures
